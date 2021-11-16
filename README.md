@@ -18,8 +18,8 @@ regardless of the lighting conditions
 
 
 This package contains programs written by Carrasco M, Araya-Letelier G, 
-Velázquez R,  % Visconti P., for the implementation of the Image-Based 
- Automated Width Measurement of  % Surface Cracking  described in the article:
+Velázquez R,  Visconti P., for the implementation of the Image-Based 
+ Automated Width Measurement of  Surface Cracking described in the article:
      
     Carrasco M, Araya-Letelier G, Velázquez R, Visconti P. Image-Based 
     Automated Width Measurement  of Surface Cracking. Sensors. 2021; 21(22):7534. 
