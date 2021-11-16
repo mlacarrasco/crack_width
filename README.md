@@ -21,7 +21,7 @@ This package contains programs written by Carrasco M, Araya-Letelier G,
 Velázquez R,  % Visconti P., for the implementation of the Image-Based 
  Automated Width Measurement of  % Surface Cracking  described in the article:
      
-    Carrasco M, Araya-Letelier G, Vel?zquez R, Visconti P. Image-Based 
+    Carrasco M, Araya-Letelier G, Velázquez R, Visconti P. Image-Based 
     Automated Width Measurement  of Surface Cracking. Sensors. 2021; 21(22):7534. 
     https://doi.org/10.3390/s21227534 
 
